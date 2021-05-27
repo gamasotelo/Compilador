@@ -220,6 +220,7 @@ public class Comprobaciones {
             if(!verifica_operacionPermitida){
                 mensaje_error = "Operación no valida";
             }
+            
         }
         
         //Mensaje
